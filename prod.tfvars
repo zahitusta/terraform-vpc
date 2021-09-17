@@ -1,4 +1,4 @@
-s3_bucket = "	aws-s3-devops-task-zahit"
+s3_bucket = "exp-ppp"
 s3_folder_project = "terraform_vpc"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
